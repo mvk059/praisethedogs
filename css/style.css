@@ -47,6 +47,15 @@ body, html {
   right: 15px;
 }
 
+.home {
+  width: 33px;
+  height: 33px;
+  display: inline-block;
+  border-radius: 50%;
+  background-size: 13px 13px;
+  background: rgba(232, 207, 172) url("../img/home.svg") no-repeat center;
+}
+
 .twitter {
   width: 33px;
   height: 33px;
@@ -54,7 +63,15 @@ body, html {
   border-radius: 50%;
   background-size: 13px 13px;
   background: rgba(232, 207, 172) url("../img/x.svg") no-repeat center;
-  /*vertical-align: top;*/
+}
+
+.instagram {
+  width: 33px;
+  height: 33px;
+  display: inline-block;
+  border-radius: 50%;
+  background-size: 13px 13px;
+  background: rgba(232, 207, 172) url("../img/instagram.svg") no-repeat center;
 }
 
 /*
